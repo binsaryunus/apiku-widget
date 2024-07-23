@@ -10,7 +10,7 @@ document.addEventListener('DOMContentLoaded', (event) => {
             align-items: center;
             position: fixed;
             top: 50%;
-            left: 60px; /* Posisi toggle */
+            left: 40px; /* Posisi toggle */
             transform: translateY(-50%); /* Tengah vertikal */
             background-color: rgba(241, 241, 241, 0.9); /* Transparan */
             padding: 5px;
